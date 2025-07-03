@@ -28,4 +28,4 @@ How to use:
     - Make sure to update the paths according to your local settings.
     - Set the 'save_figure' option to True if you want to save the figures.
 
-If you would like to apply this code to your own behavior recordings, it is recommended to train your own SLEAP model rather than utilizing the one linked here. Pose estimation models are not guarenteed to be robust in lighting, distance, angle etc. conditions outside the ones in which they are trained.
+If you would like to apply this code to your own behavior recordings, it is recommended to train your own SLEAP model rather than utilizing the one linked here. Pose estimation models are not guarenteed to be robust across different lighting, distance, angle etc. conditions outside the ones in which they have been trained and validated.
